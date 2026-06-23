@@ -122,3 +122,4 @@ Requirement already satisfied: propcache>=0.2.0 in /opt/render/project/src/.venv
 Requirement already satisfied: idna>=2.0 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from yarl<2.0,>=1.17.0->aiohttp->-r requirements.txt (line 3)) (3.18)
 Requirement already satisfied: distro<2,>=1.7.0 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from groq->-r requirements.txt (line 5)) (1.9.0)
 Requirement already satisfied: httpx<1,>=0.23.0 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from groq->-r requirements.txt (line 5)) (0.28.1)
+Requirement already satisfied: pydantic<3,>=1.9.0 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from groq->-r requirements.txt (line 5)) (2.13.4)
