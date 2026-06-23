@@ -109,3 +109,4 @@ Downloading cfonts-1.5.2-py3-none-any.whl (30 kB)
 Installing collected packages: colorama, cfonts
 
 
+[notice] To update, run: pip install --upgrade pip
