@@ -108,3 +108,4 @@ Collecting colorama (from cfonts)
 Downloading cfonts-1.5.2-py3-none-any.whl (30 kB)
 Installing collected packages: colorama, cfonts
 
+Successfully installed cfonts-1.5.2 colorama-0.4.6
