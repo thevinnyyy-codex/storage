@@ -27,4 +27,4 @@ Collecting aiohttp
 Collecting aiohttp
 Collecting aiohttp
 Collecting aiohappyeyeballs>=2.5.0 (from aiohttp)
-  Using cached aiohappyeyeballs-2.6.2-py3-none-any.whl.metadata (5.9 kB)
+Collecting aiosignal>=1.4.0 (from aiohttp)
