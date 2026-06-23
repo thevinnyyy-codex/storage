@@ -88,3 +88,4 @@ Downloading typing_inspection-0.4.2-py3-none-any.whl (14 kB)
 Installing collected packages: typing-extensions, sniffio, h11, distro, anyio, annotated-types, typing-inspection, pydantic-core, httpcore, pydantic, httpx, groq
 
 [notice] A new release of pip is available: 25.3 -> 26.1.2
+Collecting Crypto
