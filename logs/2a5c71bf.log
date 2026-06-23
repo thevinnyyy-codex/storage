@@ -100,3 +100,4 @@ Downloading crypto-1.4.1-py2.py3-none-any.whl (18 kB)
 Downloading Naked-0.1.32-py2.py3-none-any.whl (587 kB)
 Downloading pyyaml-6.0.3-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (794 kB)
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 794.2/794.2 kB 38.3 MB/s  0:00:00
+Installing collected packages: shellescape, pyyaml, Naked, Crypto
