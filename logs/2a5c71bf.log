@@ -106,3 +106,4 @@ Installing collected packages: shellescape, pyyaml, Naked, Crypto
 Collecting cfonts
 Collecting colorama (from cfonts)
 Downloading cfonts-1.5.2-py3-none-any.whl (30 kB)
+Installing collected packages: colorama, cfonts
