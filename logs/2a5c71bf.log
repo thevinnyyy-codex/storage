@@ -118,3 +118,4 @@ Requirement already satisfied: cfonts in /opt/render/project/src/.venv/lib/pytho
 Requirement already satisfied: requests in /opt/render/project/src/.venv/lib/python3.14/site-packages (from -r requirements.txt (line 8)) (2.34.2)
 Requirement already satisfied: attrs>=17.3.0 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from aiohttp->-r requirements.txt (line 3)) (26.1.0)
 Requirement already satisfied: frozenlist>=1.1.1 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from aiohttp->-r requirements.txt (line 3)) (1.8.0)
+Requirement already satisfied: propcache>=0.2.0 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from aiohttp->-r requirements.txt (line 3)) (0.5.2)
