@@ -133,3 +133,4 @@ Downloading pyjwt-2.13.0-py3-none-any.whl (31 kB)
 Installing collected packages: pyjwt, pycryptodome
 Successfully installed pycryptodome-3.23.0 pyjwt-2.13.0
 
+[notice] A new release of pip is available: 25.3 -> 26.1.2
