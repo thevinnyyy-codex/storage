@@ -24,3 +24,4 @@ Downloading cffi-2.0.0-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.wh
 Downloading pycparser-3.0-py3-none-any.whl (48 kB)
 Installing collected packages: pycparser, cffi, cryptography, jwt
 Collecting aiohttp
+Collecting aiohttp
