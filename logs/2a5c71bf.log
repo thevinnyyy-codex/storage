@@ -85,4 +85,4 @@ Downloading pydantic-2.13.4-py3-none-any.whl (472 kB)
 Downloading annotated_types-0.7.0-py3-none-any.whl (13 kB)
 Downloading h11-0.16.0-py3-none-any.whl (37 kB)
 Downloading typing_inspection-0.4.2-py3-none-any.whl (14 kB)
-Installing collected packages: typing-extensions, sniffio, h11, distro, anyio, annotated-types, typing-inspection, pydantic-core, httpcore, pydantic, httpx, groq
+
