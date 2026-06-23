@@ -53,3 +53,4 @@ Successfully installed aiohappyeyeballs-2.6.2 aiohttp-3.14.1 aiosignal-1.4.0 att
 [notice] A new release of pip is available: 25.3 -> 26.1.2
 [notice] To update, run: pip install --upgrade pip
 Collecting protobuf
+  Downloading protobuf-7.35.1-cp310-abi3-manylinux2014_x86_64.whl.metadata (595 bytes)
