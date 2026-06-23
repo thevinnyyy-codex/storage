@@ -91,3 +91,4 @@ Installing collected packages: typing-extensions, sniffio, h11, distro, anyio, a
 Collecting Crypto
   Downloading Naked-0.1.32-py2.py3-none-any.whl.metadata (931 bytes)
   Downloading shellescape-3.8.1-py2.py3-none-any.whl.metadata (2.8 kB)
+Requirement already satisfied: requests in /opt/render/project/src/.venv/lib/python3.14/site-packages (from Naked->Crypto) (2.34.2)
