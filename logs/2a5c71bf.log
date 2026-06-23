@@ -104,4 +104,4 @@ Installing collected packages: shellescape, pyyaml, Naked, Crypto
 
 [notice] A new release of pip is available: 25.3 -> 26.1.2
 Collecting cfonts
-Collecting colorama (from cfonts)
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
