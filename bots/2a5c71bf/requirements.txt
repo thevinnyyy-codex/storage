@@ -1,8 +1,0 @@
-pyjwt
-pytz
-aiohttp
-protobuf
-groq
-pycryptodome
-cfonts
-requests
