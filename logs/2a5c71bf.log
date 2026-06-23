@@ -134,3 +134,4 @@ Installing collected packages: pyjwt, pycryptodome
 Successfully installed pycryptodome-3.23.0 pyjwt-2.13.0
 
 [notice] A new release of pip is available: 25.3 -> 26.1.2
+[notice] To update, run: pip install --upgrade pip
