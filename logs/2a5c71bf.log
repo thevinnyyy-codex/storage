@@ -62,3 +62,4 @@ Successfully installed protobuf-7.35.1
 [notice] To update, run: pip install --upgrade pip
 Collecting groq
   Downloading groq-1.5.0-py3-none-any.whl.metadata (16 kB)
+Collecting anyio<5,>=3.5.0 (from groq)
