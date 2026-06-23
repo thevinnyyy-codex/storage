@@ -93,4 +93,5 @@ Collecting Crypto
   Downloading shellescape-3.8.1-py2.py3-none-any.whl.metadata (2.8 kB)
 Requirement already satisfied: requests in /opt/render/project/src/.venv/lib/python3.14/site-packages (from Naked->Crypto) (2.34.2)
 Collecting pyyaml (from Naked->Crypto)
-Requirement already satisfied: charset_normalizer<4,>=2 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from requests->Naked->Crypto) (3.4.7)
+  Downloading pyyaml-6.0.3-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (2.4 kB)
+Requirement already satisfied: idna<4,>=2.5 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from requests->Naked->Crypto) (3.18)
