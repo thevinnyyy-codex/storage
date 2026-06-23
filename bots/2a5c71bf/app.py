@@ -1,3 +1,30 @@
+import subprocess
+import sys
+import os
+
+# ============================================================
+# AUTO-INSTALL MISSING DEPENDENCIES
+# ============================================================
+def install_dependencies():
+    required = [
+        'jwt', 'pytz', 'aiohttp', 'protobuf',
+        'groq', 'Crypto', 'cfonts', 'requests'
+    ]
+    for module in required:
+        try:
+            __import__(module)
+        except ImportError:
+            print(f"📦 Installing {module}...")
+            subprocess.check_call([sys.executable, "-m", "pip", "install", module])
+
+    # Check requirements.txt
+    if os.path.exists("requirements.txt"):
+        print("📦 Installing from requirements.txt...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
+
+install_dependencies()
+# ============================================================
+
 import requests , os , sys , jwt , pickle , json , binascii , time , urllib3 , base64 , datetime , re , socket , threading , ssl , pytz , aiohttp , uuid 
 from protobuf_parser import Parser
 from xC4 import * ; from xHeaders import *
