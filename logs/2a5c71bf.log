@@ -102,3 +102,4 @@ Downloading pyyaml-6.0.3-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 794.2/794.2 kB 38.3 MB/s  0:00:00
 Installing collected packages: shellescape, pyyaml, Naked, Crypto
 
+[notice] A new release of pip is available: 25.3 -> 26.1.2
