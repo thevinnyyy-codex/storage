@@ -65,3 +65,4 @@ Collecting groq
 Collecting anyio<5,>=3.5.0 (from groq)
   Downloading anyio-4.14.0-py3-none-any.whl.metadata (4.6 kB)
 Collecting distro<2,>=1.7.0 (from groq)
+  Downloading distro-1.9.0-py3-none-any.whl.metadata (6.8 kB)
