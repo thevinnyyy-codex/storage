@@ -110,3 +110,4 @@ Installing collected packages: colorama, cfonts
 
 
 [notice] To update, run: pip install --upgrade pip
+Collecting pyjwt (from -r requirements.txt (line 1))
