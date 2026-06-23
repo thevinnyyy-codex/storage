@@ -13,3 +13,4 @@ Traceback (most recent call last):
     import requests , os , sys , jwt , pickle , json , binascii , time , urllib3 , base64 , datetime , re , socket , threading , ssl , pytz , aiohttp , uuid
 Collecting jwt
   Downloading jwt-1.4.0-py3-none-any.whl.metadata (3.9 kB)
+Collecting cryptography!=3.4.0,>=3.1 (from jwt)
