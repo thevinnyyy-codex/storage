@@ -127,3 +127,4 @@ Requirement already satisfied: sniffio in /opt/render/project/src/.venv/lib/pyth
 Requirement already satisfied: certifi in /opt/render/project/src/.venv/lib/python3.14/site-packages (from httpx<1,>=0.23.0->groq->-r requirements.txt (line 5)) (2026.6.17)
 Requirement already satisfied: annotated-types>=0.6.0 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from pydantic<3,>=1.9.0->groq->-r requirements.txt (line 5)) (0.7.0)
 Requirement already satisfied: pydantic-core==2.46.4 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from pydantic<3,>=1.9.0->groq->-r requirements.txt (line 5)) (2.46.4)
+Requirement already satisfied: typing-inspection>=0.4.2 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from pydantic<3,>=1.9.0->groq->-r requirements.txt (line 5)) (0.4.2)
