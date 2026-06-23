@@ -48,3 +48,4 @@ Downloading attrs-26.1.0-py3-none-any.whl (67 kB)
 Downloading frozenlist-1.8.0-cp314-cp314-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl (231 kB)
 Downloading propcache-0.5.2-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (61 kB)
 Installing collected packages: propcache, multidict, frozenlist, attrs, aiohappyeyeballs, yarl, aiosignal, aiohttp
+
