@@ -75,4 +75,4 @@ Requirement already satisfied: certifi in /opt/render/project/src/.venv/lib/pyth
   Downloading httpcore-1.0.9-py3-none-any.whl.metadata (21 kB)
 Collecting h11>=0.16 (from httpcore==1.*->httpx<1,>=0.23.0->groq)
 Collecting annotated-types>=0.6.0 (from pydantic<3,>=1.9.0->groq)
-Collecting pydantic-core==2.46.4 (from pydantic<3,>=1.9.0->groq)
+  Downloading pydantic_core-2.46.4-cp314-cp314-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (6.6 kB)
