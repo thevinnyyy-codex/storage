@@ -113,4 +113,5 @@ Installing collected packages: colorama, cfonts
 Collecting pyjwt (from -r requirements.txt (line 1))
 Requirement already satisfied: aiohttp in /opt/render/project/src/.venv/lib/python3.14/site-packages (from -r requirements.txt (line 3)) (3.14.1)
 Requirement already satisfied: protobuf in /opt/render/project/src/.venv/lib/python3.14/site-packages (from -r requirements.txt (line 4)) (7.35.1)
-Collecting pycryptodome (from -r requirements.txt (line 6))
+Requirement already satisfied: groq in /opt/render/project/src/.venv/lib/python3.14/site-packages (from -r requirements.txt (line 5)) (1.5.0)
+  Downloading pycryptodome-3.23.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.4 kB)
