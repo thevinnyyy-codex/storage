@@ -130,3 +130,4 @@ Requirement already satisfied: pydantic-core==2.46.4 in /opt/render/project/src/
 Requirement already satisfied: charset_normalizer<4,>=2 in /opt/render/project/src/.venv/lib/python3.14/site-packages (from requests->-r requirements.txt (line 8)) (3.4.7)
 Downloading pyjwt-2.13.0-py3-none-any.whl (31 kB)
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.3/2.3 MB 67.9 MB/s  0:00:00
+Installing collected packages: pyjwt, pycryptodome
