@@ -89,4 +89,4 @@ Installing collected packages: typing-extensions, sniffio, h11, distro, anyio, a
 
 [notice] A new release of pip is available: 25.3 -> 26.1.2
 Collecting Crypto
-Collecting Naked (from Crypto)
+  Downloading Naked-0.1.32-py2.py3-none-any.whl.metadata (931 bytes)
