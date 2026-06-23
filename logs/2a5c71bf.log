@@ -132,3 +132,4 @@ Downloading pyjwt-2.13.0-py3-none-any.whl (31 kB)
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.3/2.3 MB 67.9 MB/s  0:00:00
 Installing collected packages: pyjwt, pycryptodome
 Successfully installed pycryptodome-3.23.0 pyjwt-2.13.0
+
